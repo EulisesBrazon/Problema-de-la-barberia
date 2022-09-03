@@ -1,7 +1,8 @@
 # Problema-de-la-barberia
-ejercicio de secuencia de ejecución en procesamiento paralelo
+Ejercicio de secuencia de ejecución en procesamiento paralelo
 
-integrantes 
-Eulises brazon
+Integrantes <br />
+Eulises brazon<br />
 Eliana Rodriguez
 
+[![video explicativo](https://img.youtube.com/vi/37j-T1FF-cc/0.jpg)](https://www.youtube.com/watch?v=37j-T1FF-cc)
